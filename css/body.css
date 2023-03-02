@@ -1,0 +1,18 @@
+body{
+    color:coral;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 16px;
+    marging: 0;
+    padding: 0;
+}
+#container{
+    width: 80%;
+    text-align: left;
+    padding: 2em;
+    border: 2px solid;
+    margin: 0 auto;
+}
+#container h1{
+    font-size: 30px;
+}
