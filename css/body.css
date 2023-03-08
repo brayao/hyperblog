@@ -9,13 +9,19 @@ body{
 #cabecera{
 
     background: rgb(86, 86, 223);
-    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -25,14 +31,14 @@ body{
 
 
 #container{
-    width: 80%;
+    width: 70%;
     text-align: left;
-    padding: 2em;
-    border: 2px solid;
+    padding: 0m;
+    border: 1px solid;
     margin: 0 auto;
 }
 #container h1{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #post{
